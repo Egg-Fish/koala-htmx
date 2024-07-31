@@ -1,0 +1,1 @@
+.\tailwindcss -i ./tailwindcss.css -o ./src/public/index.css
